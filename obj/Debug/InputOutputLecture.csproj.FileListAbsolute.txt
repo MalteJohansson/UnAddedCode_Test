@@ -1,0 +1,7 @@
+C:\Users\malte\source\repos\InputOutputLecture\InputOutputLecture\bin\Debug\InputOutputLecture.exe.config
+C:\Users\malte\source\repos\InputOutputLecture\InputOutputLecture\bin\Debug\InputOutputLecture.exe
+C:\Users\malte\source\repos\InputOutputLecture\InputOutputLecture\bin\Debug\InputOutputLecture.pdb
+C:\Users\malte\source\repos\InputOutputLecture\InputOutputLecture\obj\Debug\InputOutputLecture.csprojResolveAssemblyReference.cache
+C:\Users\malte\source\repos\InputOutputLecture\InputOutputLecture\obj\Debug\InputOutputLecture.csproj.CoreCompileInputs.cache
+C:\Users\malte\source\repos\InputOutputLecture\InputOutputLecture\obj\Debug\InputOutputLecture.exe
+C:\Users\malte\source\repos\InputOutputLecture\InputOutputLecture\obj\Debug\InputOutputLecture.pdb
